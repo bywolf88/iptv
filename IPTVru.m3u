@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общественные" tvg-id="146", Первый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVHD/variant.m3u8
 #EXTINF:-1 tvg-id="711" group-title="Общественные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="711" group-title="Общественные",Россия 1 HD  (Псков)
