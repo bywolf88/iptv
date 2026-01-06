@@ -12,9 +12,11 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="162" tvg-logo="http://cdn.epg.one/img2/162.png" group-title="Общественные",НТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVHD/variant.m3u8
 #EXTINF:-1 tvg-id="162" group-title="Общественные",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 tvg-id="162" group-title="Общественные",НТВ HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=eYkFEQQJNvI0ok-A7NITpw&e=2067169950&scheme=https
 #EXTINF:-1 tvg-id="2079" group-title="Общественные",5 канал
 http://95.66.188.74/5kanal/mono.m3u8
 #EXTINF:-1 tvg-id="187" group-title="Общественные",Россия Культура HD
