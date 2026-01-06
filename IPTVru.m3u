@@ -22,7 +22,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="6667" group-title="Общественные",Первый Псковский
 http://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 tvg-id="9015" group-title="Общественные",Неизвестная Россия HD
-http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-id="1000" group-title="Общественные",ОТР
 http://95.66.188.74/OTR/mono.m3u8
 #EXTINF:-1 tvg-id="649" group-title="Общественные",ТВЦ
