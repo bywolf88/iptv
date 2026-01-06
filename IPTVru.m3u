@@ -73,3 +73,5 @@ https://streaming.televizor-24-tochka.ru/live/28.m3u8
 http://193.25.8.59:8000/moskva24
 #EXTINF:-1 tvg-id="2266" group-title="Новостные",EURONEWS
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+#EXTINF:-1 tvg-id="0" group-title="тест",тест
+http://127.0.0.1:8090/stream/ae0d6d703ef80198263a1a868740cf059eac4e9e
