@@ -10,6 +10,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="2051" group-title="Общественные",Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="162" tvg-logo="http://cdn.epg.one/img2/162.png" group-title="Общественные",НТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVHD/variant.m3u8
 #EXTINF:-1 tvg-id="162" group-title="Общественные",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 tvg-id="2079" group-title="Общественные",5 канал
@@ -54,10 +57,10 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="4458" group-title="Общественные",360° Новости HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="5651" group-title="Общественные",Перец
-http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 tvg-id="1598" group-title="Общественные",Че
 http://95.66.188.74/Che/mono.m3u8
+#EXTINF:-1 tvg-id="5651" group-title="Общественные",Перец
+http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 tvg-id="2308" group-title="Общественные",Москва. Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="2447" group-title="Общественные",Победа
