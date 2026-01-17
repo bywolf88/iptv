@@ -185,6 +185,70 @@ http://158.101.222.193:88/georgia_play.php?id=kinoseria
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Фильмовые",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="Фильмовые",VIJU 1000 HD
+https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ch018" tvg-logo="http://tvtm.one/images/chIcons/18.png" group-title="Фильмовые",Viju TV 1000 Action HD
+http://ru3.tvtm.one/ch018/mono.m3u8?token=ruslan40.v2_upFizl19jsr0VdF2FtFAvggCrW0AcVoR5fcHrB6I9Dpy4I3KWAlxtRGjxWQWN5bf52WS2ZvwIIU
+#EXTINF:-1 tvg-id="ch013" tvg-logo="http://tvtm.one/images/chIcons/13.png" group-title="Фильмовые",Viju TV 1000 Русское HD
+http://ru3.tvtm.one/ch013/mono.m3u8?token=ruslan40.v2_nzONoyXx6gWjhYFszHxViseBVnWfuZLkvLT3nXFdGX5i4M71EGpmgrO9MT-ns5oYmW3d-w6oPpg
+#EXTINF:-1 tvg-id="ch3079" tvg-logo="http://tvtm.one/images/chIcons/3079.png" group-title="Фильмовые",Viasat Kino Action HD
+http://ru3.tvtm.one/ch3079/mono.m3u8?token=ruslan40.v2_Wd2jqmDSxAlrfvv4XUoCc23qnNTnVsTbbJah_ICPQfkpZVYzZfpPazsM9FfHilvSr4GpQ4zM9WAMpA
+#EXTINF:-1 tvg-id="ch3080" tvg-logo="http://tvtm.one/images/chIcons/3080.png" group-title="Фильмовые",Viasat Kino Comedy HD
+http://ru3.tvtm.one/ch3080/mono.m3u8?token=ruslan40.v2_eJ3x6KLfxBPB3_cYsE4evgMm2hAPAwWzYLY5t9pyngcCLjEx2OHja1YC2YOzSqRz2pCXCEAzfMHHHA
+#EXTINF:-1 group-title="Фильмовые",Viasat Kino HD
+http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
+#EXTINF:-1 tvg-id="ch651" tvg-logo="http://tvtm.one/images/chIcons/651.png" group-title="Фильмовые",Viasat Kino World HD
+http://ru3.tvtm.one/ch651/mono.m3u8?token=ruslan40.v2_BmM781ysHOAJIGpcsr3FY3vCn0sPBctIctGVFIp07zWbesncDl9ivrD3ybINJjzkbRyAcLjnFf7a
+#EXTINF:-1 tvg-id="ch3075" tvg-logo="http://tvtm.one/images/chIcons/3075.png" group-title="Фильмовые",Viju TV1000 Новелла HD
+http://ru3.tvtm.one/ch3075/mono.m3u8?token=ruslan40.v2_bv_Vq_7thWCqNC1bAHoqIaMZWwcUwa1LsaHLhYZATo2G0ESP_eL6qmdLgt4YW5k1wTkMRj2xU0C48Q
+#EXTINF:-1 tvg-id="ch3074" tvg-logo="http://tvtm.one/images/chIcons/3074.png" group-title="Фильмовые",Viju TV1000 Romantica HD
+http://ru3.tvtm.one/ch3074/mono.m3u8?token=ruslan40.v2_PiwDEDjHqrk3dMMLhRGwKu6OivKpI5rZvu3YV7-Dqjb7xyMotiJx4dJwbUzd9wchcbYiZHaRA1a8Wg
+#EXTINF:-1 tvg-id="ch058" tvg-logo="http://tvtm.one/images/chIcons/58.png" group-title="Фильмовые",Viju+ Comedy HD
+http://ru3.tvtm.one/ch058/mono.m3u8?token=ruslan40.v2_W8THJModS9kp8SmHHM2kfmwknImQkA_4LrIAIJjxbZjPXd6FSfFABtlOjM4Mecr6KmZdUZOhhpg
+#EXTINF:-1 tvg-id="ch059" tvg-logo="http://tvtm.one/images/chIcons/59.png" group-title="Фильмовые",Viju+ Megahit HD
+http://ru3.tvtm.one/ch059/mono.m3u8?token=ruslan40.v2_cXYRsJMknW3_jeEE3aTxzGWaTU4v2zGQYQvEQ9-2JMiPLS0U-kIiFFkKwyzcYUpRZMTJBlIKQNU
+#EXTINF:-1 tvg-id="ch060" tvg-logo="http://tvtm.one/images/chIcons/60.png" group-title="Фильмовые",Viju+ Premiere HD
+http://ru3.tvtm.one/ch060/mono.m3u8?token=ruslan40.v2_YcL7LHz1AYn4QiihUKqMezLyGw2iytY_5Sb5buzooakL5BTgxQCMuh0VLMuvJ13s-QB8Zrrfd9o
+#EXTINF:-1 tvg-id="ch701" tvg-logo="http://tvtm.one/images/chIcons/701.png" group-title="Фильмовые",Viju+ Serial HD
+http://ru3.tvtm.one/ch701/mono.m3u8?token=ruslan40.v2_duhz19DuQmTqZsA8YrvvHHhl6F7rXU8X3OhW3j2NkvxzoEgFIsKASAde0HxBEW6E46YcR1_6_HZ4
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые",TV1000 Ру кино
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg2Mzk3NTEsImlhdCI6MTc2ODU1MzM1MSwiY2lkIjo2LCJ1aWQiOjk4OTk3NTQyNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.2IRZfeQJ_GjOIQ-jqHiwRUlAtrqNsghcVbDuJ3p7-0o&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые",TV1000
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg2Mzk3NTEsImlhdCI6MTc2ODU1MzM1MSwiY2lkIjo2LCJ1aWQiOjk4OTk3NTQyNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.2IRZfeQJ_GjOIQ-jqHiwRUlAtrqNsghcVbDuJ3p7-0o&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые",TV1000 Action
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg2Mzk3NTEsImlhdCI6MTc2ODU1MzM1MSwiY2lkIjo2LCJ1aWQiOjk4OTk3NTQyNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.2IRZfeQJ_GjOIQ-jqHiwRUlAtrqNsghcVbDuJ3p7-0o&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые",VIP Comedy HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg2Mzk3NTEsImlhdCI6MTc2ODU1MzM1MSwiY2lkIjo2LCJ1aWQiOjk4OTk3NTQyNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.2IRZfeQJ_GjOIQ-jqHiwRUlAtrqNsghcVbDuJ3p7-0o&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые",VIP Megahit HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg2Mzk3NTEsImlhdCI6MTc2ODU1MzM1MSwiY2lkIjo2LCJ1aWQiOjk4OTk3NTQyNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.2IRZfeQJ_GjOIQ-jqHiwRUlAtrqNsghcVbDuJ3p7-0o&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые",VIP Premiere HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg2Mzk3NTEsImlhdCI6MTc2ODU1MzM1MSwiY2lkIjo2LCJ1aWQiOjk4OTk3NTQyNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.2IRZfeQJ_GjOIQ-jqHiwRUlAtrqNsghcVbDuJ3p7-0o&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые",VIP Serial HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg2Mzk3NTEsImlhdCI6MTc2ODU1MzM1MSwiY2lkIjo2LCJ1aWQiOjk4OTk3NTQyNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.2IRZfeQJ_GjOIQ-jqHiwRUlAtrqNsghcVbDuJ3p7-0o&offset=10
+#EXTINF:-1 group-title="Фильмовые",Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Родное кино
+http://62.89.220.15/streams/media/rodnoe-kino_720x576/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Ретро sd
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Премьера hd
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмовые",Наше Новое Кино
+http://62.89.220.15/streams/media/nashe-novoe-kino_720x576/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые",Наше новое кино
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg2Mzk3NTEsImlhdCI6MTc2ODU1MzM1MSwiY2lkIjo2LCJ1aWQiOjk4OTk3NTQyNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.2IRZfeQJ_GjOIQ-jqHiwRUlAtrqNsghcVbDuJ3p7-0o&offset=10
+#EXTINF:-1 group-title="Фильмовые",ЛЮБИМОЕ КИНО HD
+http://84.54.128.52:9090/play/a002/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Комедия
+http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кинозалы",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Funny
@@ -385,6 +449,10 @@ http://158.101.222.193:88/georgia_play.php?id=m2
 http://ost.ping-tv.com/rYV9QTC9tcGVndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNjAiLCJwIjoiYTBmZjRlNjBmNDcxOWM3YiIsImMiOiI3NjYiLCJ0IjoiMGRhZjBlZDliN2M4YzU5OGE3YWNlNjZlYmVhMjg2MGIiLCJkIjoiODg3NTciLCJyIjoiMTc5NzU5IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjMub3h0dmUubGl2ZTo5OTg1L0tpbm9fUG9sc2thX011enl
 #EXTINF:-1 tvg-id="Polsat Music" tvg-logo="https://i.ibb.co/Dgzc5vyF/polsat-mus.png" group-title="Музыкальные",Polsat Music HD
 http://ost.ping-tv.com/tcGVndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNjAiLCJwIjoiYTBmZjRlNjBmNDcxOWM3YiIsImMiOiI3NjciLCJ0IjoiMGRhZjBlZDliN2M4YzU5OGE3YWNlNjZlYmVhMjg2MGIiLCJkIjoiODg3NTciLCJyIjoiMTc5NzU5IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjMub3h0dmUubGl2ZTo5OTg1L1BvbHNhdF9NdXNpY19QTC9
+#EXTINF:-1 group-title="Музыкальные",Best of Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="Музыкальные",DeepHouse District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/xit-fm.png" group-title="Радио",Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио",Русское радио
@@ -453,3 +521,7 @@ http://84.54.128.52:9090/play/a001/index.m3u8
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 tvg-id="2833" tvg-logo="http://epg.one/img2/2833.png" group-title="ТЕСТОВЫЕ",ХИТ ТВ
 http://jbvtcssi.deploy.cx/ace/getstream?infohash=c6b97fd0578b6f279870a6d002640c1fc97e810a
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="ТЕСТОВЫЕ",viju TV1000 HD
+http://176.96.241.40/TV1000/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="ТЕСТОВЫЕ",viju TV1000 action
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
