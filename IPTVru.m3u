@@ -84,7 +84,8 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 http://95.66.188.74/Che/mono.m3u8
 #EXTINF:-1 tvg-id="Санкт-Петербург" tvg-logo="https://i.ibb.co/WwpT3v1/sankt-peter.png" group-title="Общественные",Санкт-Петербург HD
 https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
-#EXTINF:-1 tvg-id="2308" group-title="Общественные",Москва. Доверие (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2308" group-title="Общественные",Москва. Доверие (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ТВ-21+" tvg-logo="https://i.ibb.co/C37hDhfc/tv21plus.png" group-title="Общественные",21+ (Мурманск)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
