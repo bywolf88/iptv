@@ -7,7 +7,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="711" tvg-logo="http://epg.one/img2/711.png" group-title="Общественные",Россия 1 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" tvg-id="711" group-title="Общественные",Россия 1 HD  (Псков)
+#EXTINF:-1 tvg-id="711" group-title="Общественные",Россия 1 HD  (Псков)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="2051" group-title="Общественные",Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
@@ -16,11 +16,9 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-id="162" group-title="Общественные",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2079" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Общественные",5 канал (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Пятый канал" tvg-logo="https://i.ibb.co/1JP2kxdq/pyatiy.png" group-title="Общественные",5 канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 tvg-id="2079" group-title="Общественные",5 канал
-http://95.66.188.74/5kanal/mono.m3u8
 #EXTINF:-1 tvg-id="187" group-title="Общественные",Россия Культура HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="1683" group-title="Общественные",Россия 24 HD
@@ -34,8 +32,6 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="1000" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 tvg-id="1000" group-title="Общественные",ОТР
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
 #EXTINF:-1 tvg-id="649" group-title="Общественные",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="18" group-title="Общественные",Рен ТВ
@@ -102,6 +98,15 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 http://ost.ping-tv.com/tcGVndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNjAiLCJwIjoiYTBmZjRlNjBmNDcxOWM3YiIsImMiOiI3NjciLCJ0IjoiMGRhZjBlZDliN2M4YzU5OGE3YWNlNjZlYmVhMjg2MGIiLCJkIjoiODg3NTciLCJyIjoiMTc5NzU5IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjMub3h0dmUubGl2ZTo5OTg1L1BvbHNhdF9NdXNpY19QTC9
 #EXTINF:-1 tvg-id="Хит HD - 2833" tvg-logo="http://epg.one/img2/2833.png" group-title="Общественные",ХИТ ТВ
 http://jbvtcssi.deploy.cx/ace/getstream?infohash=c6b97fd0578b6f279870a6d002640c1fc97e810a
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="18" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",РЕН ТВ (Псковская область)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/PSKV_OBL/CH_RENTV.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="18" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",РЕН ТВ (Мурманск)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/MURM/CH_RENTV.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="18" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",РЕН ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 tvg-id="2578" group-title="Новостные",24KZ
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 #EXTINF:-1 tvg-id="2170" group-title="Новостные",Беларусь 24 HD
@@ -128,7 +133,7 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=veDX78NSNI3S-6X9qC5x5A&e=1769270078&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="125" tvg-logo="http://epg.one/img2/125.png" group-title="Фильмовые",Viju TV1000 Action
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=1BBK_NS4CaH2d5DEVzNEHg&e=1769270098&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="267" tvg-logo="http://epg.one/img2/267.png" group-title="Фильмовые",Viju TV 1000 Русское HD
+#EXTINF:-1 tvg-id="viju TV1000 русское" tvg-logo="http://epg.one/img2/267.png" group-title="Фильмовые",Viju TV 1000 Русское HD
 http://ru3.tvtm.one/ch013/mono.m3u8?token=ruslan40.v2_nzONoyXx6gWjhYFszHxViseBVnWfuZLkvLT3nXFdGX5i4M71EGpmgrO9MT-ns5oYmW3d-w6oPpg
 #EXTINF:-1 tvg-id="9057" tvg-logo="http://epg.one/img2/9057.png" group-title="Фильмовые",Viju TV1000 Новелла HD
 http://ru3.tvtm.one/ch3075/mono.m3u8?token=ruslan40.v2_bv_Vq_7thWCqNC1bAHoqIaMZWwcUwa1LsaHLhYZATo2G0ESP_eL6qmdLgt4YW5k1wTkMRj2xU0C48Q
@@ -254,6 +259,8 @@ http://62.89.220.15/streams/media/nashe-novoe-kino_720x576/index.m3u8
 http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg2Mzk3NTEsImlhdCI6MTc2ODU1MzM1MSwiY2lkIjo2LCJ1aWQiOjk4OTk3NTQyNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.2IRZfeQJ_GjOIQ-jqHiwRUlAtrqNsghcVbDuJ3p7-0o&offset=10
 #EXTINF:-1 group-title="Фильмовые",ЛЮБИМОЕ КИНО HD
 http://84.54.128.52:9090/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="9080" tvg-logo="http://epg.one/img2/9080.png" group-title="Фильмовые",ART
+http://95.47.156.60:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кинозалы",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Funny
