@@ -32,31 +32,34 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="1000" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 tvg-id="649" group-title="Общественные",ТВЦ
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="18" group-title="Общественные",Рен ТВ
-http://95.66.188.74/RenTV/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="649" tvg-logo="http://epg.one/img2/649.png" group-title="Общественные",ТВ Центр (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="18" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",РЕН ТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="79" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Общественные",СТС (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="79" group-title="Общественные",СТС HD
-http://95.66.188.74/CTC_HD/mono.m3u8
-#EXTINF:-1 tvg-id="304" group-title="Общественные",Домашний
-http://95.66.188.74/Domashnij/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="304" tvg-logo="http://epg.one/img2/304.png" group-title="Общественные",Домашний (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="698" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 tvg-id="698" group-title="Общественные",ТВ3
-http://95.66.188.74/TV3/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="1003" tvg-logo="http://epg.one/img2/1003.png" group-title="Общественные",Пятница! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 tvg-id="1003" group-title="Общественные",Пятница!
-http://95.66.188.74/Pyatnica/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="405" tvg-logo="http://epg.one/img2/405.png" group-title="Общественные",Звезда (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-id="405" group-title="Общественные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="4661" group-title="Общественные",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="726" tvg-logo="http://epg.one/img2/726.png" group-title="Общественные",Мир (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 tvg-id="726" group-title="Общественные",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="2078" group-title="Общественные",Мир 24 HD
@@ -64,8 +67,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="353" tvg-logo="http://epg.one/img2/353.png" group-title="Общественные",ТНТ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="353" tvg-logo="http://epg.one/img2/353.png" group-title="Общественные",ТНТ HD
-http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 tvg-id="743" group-title="Общественные",РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="2265" group-title="Общественные",360° HD
@@ -76,8 +77,9 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/track
 http://95.66.188.74/Pobeda/mono.m3u8
 #EXTINF:-1 tvg-id="5651" group-title="Общественные",Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1 tvg-id="1598" group-title="Общественные",Че
-http://95.66.188.74/Che/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="1598" tvg-logo="http://epg.one/img2/1598.png" group-title="Общественные",Че (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="Санкт-Петербург" tvg-logo="https://i.ibb.co/WwpT3v1/sankt-peter.png" group-title="Общественные",Санкт-Петербург HD
 https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2308" group-title="Общественные",Москва. Доверие (Архив)
@@ -90,26 +92,6 @@ http://dmi3y-tv6.ru/hls/zabava/region/MURM/CH_TV21PLUS.m3u8
 https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 tvg-id="2288" group-title="Общественные",Суббота!
 http://95.66.188.74/Subbota/mono.m3u8
-#EXTINF:-1 tvg-id="Дом Кино Премиум HD - 2020" tvg-logo="http://epg.one/img2/2020.png" group-title="Общественные",Дои кино премиум
-http://84.54.128.52:9090/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция
-http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:-1 tvg-id="Polsat Music - Polsat Music" tvg-logo="https://i.ibb.co/Dgzc5vyF/polsat-mus.png" group-title="Общественные",Polsat Music HD
-http://ost.ping-tv.com/tcGVndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNjAiLCJwIjoiYTBmZjRlNjBmNDcxOWM3YiIsImMiOiI3NjciLCJ0IjoiMGRhZjBlZDliN2M4YzU5OGE3YWNlNjZlYmVhMjg2MGIiLCJkIjoiODg3NTciLCJyIjoiMTc5NzU5IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjMub3h0dmUubGl2ZTo5OTg1L1BvbHNhdF9NdXNpY19QTC9
-#EXTINF:-1 tvg-id="Хит HD - 2833" tvg-logo="http://epg.one/img2/2833.png" group-title="Общественные",ХИТ ТВ
-http://jbvtcssi.deploy.cx/ace/getstream?infohash=c6b97fd0578b6f279870a6d002640c1fc97e810a
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="18" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",РЕН ТВ (Псковская область)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/PSKV_OBL/CH_RENTV.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="18" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",РЕН ТВ (Мурманск)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/MURM/CH_RENTV.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="18" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",РЕН ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="18" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",РЕН ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="2578" group-title="Новостные",24KZ
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 #EXTINF:-1 tvg-id="2170" group-title="Новостные",Беларусь 24 HD
